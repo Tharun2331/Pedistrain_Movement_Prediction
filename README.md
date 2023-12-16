@@ -1,7 +1,12 @@
 We have referred through the following links in order to develop this model:
 
-1. https://github.com/olly-styles/Multiple-Object-Forecasting/tree/master
-2. https://github.com/olly-styles/Dynamic-Trajectory-Predictor/tree/master
+1. olly-styles/Multiple-Object-Forecasting: Repo for the paper 'Multiple Object Forecasting: Predicting Future Object Locations in Diverse Environments'. WACV 2020
+Olly-Styles
+https://github.com/olly-styles/Multiple-Object-Forecasting/tree/master
+
+2. olly-styles/Dynamic-Trajectory-Predictor: Repo for the paper 'Forecasting Pedestrian Trajectory with Machine-Annotated Training Data'. IV 2019
+Olly-Styles
+https://github.com/olly-styles/Dynamic-Trajectory-Predictor/tree/master
 
 
 # Pedestrain_Movement_Prediction
