@@ -1,6 +1,6 @@
 # Pedestrain_Movement_Prediction
 
-This part of the Pedestrian Movement Predection uses the dynamic trajectory prediction.
+This part of the Pedestrian Movement Predection uses the dynamic trajectory prediction using the JAAD Dataset.
 
 #Instructions
 
