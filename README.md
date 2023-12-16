@@ -1,3 +1,9 @@
+We have referred through the following links in order to develop this model:
+
+1. https://github.com/olly-styles/Multiple-Object-Forecasting/tree/master
+2. https://github.com/olly-styles/Dynamic-Trajectory-Predictor/tree/master
+
+
 # Pedestrain_Movement_Prediction
 Please clone this repository https://github.com/Tharun2331/Dynamic_Trejectory_Predictor/tree/master first then follow below steps.
 This part of the Pedestrian Movement Predection uses the dynamic trajectory prediction using the JAAD Dataset.
