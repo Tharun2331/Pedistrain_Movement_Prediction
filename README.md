@@ -1,5 +1,5 @@
 # Pedestrain_Movement_Prediction
-
+Please clone this repository https://github.com/Tharun2331/Dynamic_Trejectory_Predictor/tree/master first then follow below steps.
 This part of the Pedestrian Movement Predection uses the dynamic trajectory prediction using the JAAD Dataset.
 
 #Instructions
