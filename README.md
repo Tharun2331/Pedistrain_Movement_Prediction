@@ -1,3 +1,9 @@
+We have referred through the following links in order to develop this model:
+
+1. https://github.com/olly-styles/Multiple-Object-Forecasting/tree/master
+2. https://github.com/olly-styles/Dynamic-Trajectory-Predictor/tree/master
+
+
 # Pedestrain_Movement_Prediction
 This project is to demonstrate the prediction of the pedestrian movement. This is extremely useful for various applications such as autonomous driving cars and also for people with impaired vision to anticipate any objects or people coming into their paths.
 
